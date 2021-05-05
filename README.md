@@ -69,3 +69,7 @@ Further instructions can be found on the official repo of the [ACL anthology](ht
 
 + Author's repository github: @mardub1635 
 + Archive and project manager github: @mjpost
+
+To download the spreadsheet, you can use
+
+curl -L "https://docs.google.com/spreadsheets/d/1fpxmdV_BPwR6BQHyU9VJQxXeSOmy4__5nQCHBEviyAw/export?gid=0&format=tsv" > conference-list.tsv
