@@ -1,10 +1,4 @@
 Title	Authors	Pdf	Presentation	Notes
-Ontological semantics	Sergei Nirenburg			Tutorial descriptions 
-A gentle introduction to MT: theory and current practice	Eduard Hovy			Tutorial descriptions 
-Controlled languages	Teruko Mitamura and Eric Nyberg			Tutorial descriptions 
-Statistical machine translation	Kevin Knight			Tutorial descriptions 
-The diversity and distribution of languages	Laurie Gerber			Tutorial descriptions 
-MTranslatability	Arendse Bernth and Claudia Gdaniec			Tutorial descriptions 
 Building a Chinese-English mapping between verb concepts for multilingual applications	Bonnie J. Dorr and Gina-Anne Levow and Dekang Lin			Technical papers
 Applying machine translation to two-stage cross-language information retrieval	Atsushi Fujii and Tetsuya Ishikawa			Technical papers
 Mixed-initiative translation of Web pages	Michael Fleming and Robin Cohen			Technical papers
@@ -23,13 +17,3 @@ Understanding politics by studying weather: a cognitive approach to representati
 Small but efficient: the misconception of high-frequency words in Scandinavian translation	Pernilla Danielsson and Katarina Mühlenbock			Technical papers
 Challenges in adapting an interlingua for bidirectional English-Italian translation	Violetta Cavalli-Sforza and Krzysztof Czuba and Teruko Mitamura and Eric Nyberg			Technical papers
 Text meaning representation as a basis for representation of text interpretation	Stephen Helmreich and David Farwell			Technical papers
-MT-based transparent Arabization of the Internet TARJIM.COM	Achraf Chalabi			System descriptions
-The KANTOO machine translation environment	Eric Nyberg and Teruko Mitamura			System descriptions
-Pacific Rim portable translator	John Weisgerber and Jin Yang and Pete Fisher			System descriptions
-LabelTool: a localization application for devices with restricted display areas	Jimmy C.M. Lu and Lars Åkerman and Karin Spalink			System descriptions
-The LogoVista ES translation system	Nan Decker			System descriptions
-L&H lexicography toolkit for machine translation	Timothy Meekhof and David Clements			System descriptions
-A new look for the PAHO MT system	Marjorie León			System descriptions
-Is MT software documentation appropriate for MT users?	David Mowatt and Harold Somers			User studies
-Evaluating embedded machine translation in military field exercises	M.Holland and C. Schlesinger and C. Tate			User studies
-Machine translation systems: E-K, K-E, J-K, K-J	Yu Seop Kim and Sung Dong Kim and Seong Bae Park and Jong Woo Lee and Jeong Ho Chang and Kyu Baek Hwang and Min O Jang and Yung Taek Kim			User studies
