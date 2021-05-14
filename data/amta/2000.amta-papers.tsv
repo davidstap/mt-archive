@@ -1,19 +1,19 @@
-Title	Authors	Pdf	Presentation	Notes	Pagenumbers	Publisher
-Building a Chinese-English mapping between verb concepts for multilingual applications	Dorr, Bonnie J. and Gina-Anne Levow and Dekang Lin			Technical papers	1-12	Springer
-Applying machine translation to two-stage cross-language information retrieval	Atsushi Fujii and Tetsuya Ishikawa			Technical papers	13-24	Springer
-Mixed-initiative translation of Web pages	Michael Fleming and Robin Cohen			Technical papers	25-29	Springer
-A self-learning method of parallel texts alignment	António Ribeiro and Gabriel Lopes and João Mexia			Technical papers	30-39	Springer
-Handling structural divergences and recovering dropped arguments in a Korean/English machine translation system	Chung-hye Han and Benoit Lavoie and Martha Palmer and Owen Rambow and Richard Kittredge and Tanya Korelsky and Nari Kim and Myunghee Kim			Technical papers	40-53	Springer
-A machine translation system from English to American Sign Language	Liwei Zhao and Karin Kipper and William Schuler and Christian Vogler and Norman Badler and Martha Palmer			Technical papers	54-67	Springer
-Oxygen: a language independent linearization engine	Nizar Habash			Technical papers	68-79	Springer
-Information structure transfer: bridging the information gap in structurally different languages	Margo Budzikowa			Technical papers	80-88	Springer
-The effect of source analysis on translation confidence	Arendse Bernth and Michael C. McCord			Technical papers	89-99	Springer
-Contemplating automatic MT evaluation	John S. White			Technical papers	100-108	Springer
-How are you doing? A look at MT evaluation	Michelle Vanni and Florence Reeder			Technical papers	109-116	Springer
-Recycling annotated parallel corpora for bilingual document composition	Arantza Casillas and Joseba Abaitua and Raquel Martínez			Technical papers	117-126	Springer
-Combining invertible example-based machine translation with translation memory technology	Michael Carl			Technical papers	127-136	Springer
-What's been forgotten in translation memory	Elliott Macklovitch and Graham Russell			Technical papers	137-146	Springer
-Understanding politics by studying weather: a cognitive approach to representation of Polish verbs of motion, appearance, and existence	Barbara Gawronska and Hannah Duczak			Technical papers	147-157	Springer
-Small but efficient: the misconception of high-frequency words in Scandinavian translation	Pernilla Danielsson and Katarina Mühlenbock			Technical papers	158-168	Springer
-Challenges in adapting an interlingua for bidirectional English-Italian translation	Violetta Cavalli-Sforza and Krzysztof Czuba and Teruko Mitamura and Eric Nyberg			Technical papers	169-178	Springer
-Text meaning representation as a basis for representation of text interpretation	Stephen Helmreich and David Farwell			Technical papers	179-188	Springer
+Title	Authors	Pdf	Presentation	Notes	Pagenumbers	Publisher	URL
+Building a Chinese-English mapping between verb concepts for multilingual applications	Dorr, Bonnie J. and Gina-Anne Levow and Dekang Lin			Technical papers	1-12	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_1
+Applying machine translation to two-stage cross-language information retrieval	Atsushi Fujii and Tetsuya Ishikawa			Technical papers	13-24	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_2
+Mixed-initiative translation of Web pages	Michael Fleming and Robin Cohen			Technical papers	25-29	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_3
+A self-learning method of parallel texts alignment	António Ribeiro and Gabriel Lopes and João Mexia			Technical papers	30-39	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_4
+Handling structural divergences and recovering dropped arguments in a Korean/English machine translation system	Chung-hye Han and Benoit Lavoie and Martha Palmer and Owen Rambow and Richard Kittredge and Tanya Korelsky and Nari Kim and Myunghee Kim			Technical papers	40-53	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_5
+A machine translation system from English to American Sign Language	Liwei Zhao and Karin Kipper and William Schuler and Christian Vogler and Norman Badler and Martha Palmer			Technical papers	54-67	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_6
+Oxygen: a language independent linearization engine	Nizar Habash			Technical papers	68-79	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_7
+Information structure transfer: bridging the information gap in structurally different languages	Margo Budzikowa			Technical papers	80-88	Springer	Information Structure Transfer: Bridging the Information Gap in Structurally Different Languages
+The effect of source analysis on translation confidence	Arendse Bernth and Michael C. McCord			Technical papers	89-99	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_9
+Contemplating automatic MT evaluation	John S. White			Technical papers	100-108	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_10
+How are you doing? A look at MT evaluation	Michelle Vanni and Florence Reeder			Technical papers	109-116	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_11
+Recycling annotated parallel corpora for bilingual document composition	Arantza Casillas and Joseba Abaitua and Raquel Martínez			Technical papers	117-126	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_12
+Combining invertible example-based machine translation with translation memory technology	Michael Carl			Technical papers	127-136	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_13
+What's been forgotten in translation memory	Elliott Macklovitch and Graham Russell			Technical papers	137-146	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_14
+Understanding politics by studying weather: a cognitive approach to representation of Polish verbs of motion, appearance, and existence	Barbara Gawronska and Hannah Duczak			Technical papers	147-157	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_15
+Small but efficient: the misconception of high-frequency words in Scandinavian translation	Pernilla Danielsson and Katarina Mühlenbock			Technical papers	158-168	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_16
+Challenges in adapting an interlingua for bidirectional English-Italian translation	Violetta Cavalli-Sforza and Krzysztof Czuba and Teruko Mitamura and Eric Nyberg			Technical papers	169-178	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_17
+Text meaning representation as a basis for representation of text interpretation	Stephen Helmreich and David Farwell			Technical papers	179-188	Springer	https://link.springer.com/chapter/10.1007/3-540-39965-8_18
