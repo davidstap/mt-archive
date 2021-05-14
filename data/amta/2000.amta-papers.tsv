@@ -1,5 +1,5 @@
-Title	Authors	Pdf	Presentation	Notes	Pagenumbers
-Building a Chinese-English mapping between verb concepts for multilingual applications	Dorr, Bonnie J. and Gina-Anne Levow and Dekang Lin			Technical papers	1-12
+Title	Authors	Pdf	Presentation	Notes	Pagenumbers	Abstract
+Building a Chinese-English mapping between verb concepts for multilingual applications	Dorr, Bonnie J. and Gina-Anne Levow and Dekang Lin			Technical papers	1-12	This paper addresses the problem of building conceptual resources for multilingual applications. We describe new techniques for large-scale construction of a Chinese-English lexicon for verbs, using thematic-role information to create links between Chinese and English conceptual information. We then present an approach to compensating for gaps in the existing resources. The resulting lexicon is used for multilingual applications such as machine translation and cross-language information retrieval.
 Applying machine translation to two-stage cross-language information retrieval	Atsushi Fujii and Tetsuya Ishikawa			Technical papers	13-24
 Mixed-initiative translation of Web pages	Michael Fleming and Robin Cohen			Technical papers	25-29
 A self-learning method of parallel texts alignment	António Ribeiro and Gabriel Lopes and João Mexia			Technical papers	30-39
@@ -16,4 +16,4 @@ What's been forgotten in translation memory	Elliott Macklovitch and Graham Russe
 Understanding politics by studying weather: a cognitive approach to representation of Polish verbs of motion, appearance, and existence	Barbara Gawronska and Hannah Duczak			Technical papers	147-157
 Small but efficient: the misconception of high-frequency words in Scandinavian translation	Pernilla Danielsson and Katarina Mühlenbock			Technical papers	158-168
 Challenges in adapting an interlingua for bidirectional English-Italian translation	Violetta Cavalli-Sforza and Krzysztof Czuba and Teruko Mitamura and Eric Nyberg			Technical papers	169-178
-Text meaning representation as a basis for representation of text interpretation	Stephen Helmreich and David Farwell			Technical papers	179-188
+Text meaning representation as a basis for representation of text interpretation	Stephen Helmreich and David Farwell			Technical papers	179-188	
