@@ -1,7 +1,7 @@
 Title	Authors	Pdf	Presentation	Volume_Name
 Case study: implementing MT for the translation of pre-sales marketing and post-sales software deployment documentation at Mycom International	Jeffrey Allen			Papers
 A speech-to-speech translation system for Catalan, Spanish, and English	Victoria Arranz and Elisabet Comelles and David Farwell and Climent Nadeu and Jaume Padrell and Albert Febrer and Dorcas Alexander and Kay Peterson			Papers
-Multi-Align: combining linguistic and statistical techniques to improve alignments for adaptable MT	Necip Fazil Ayan and Bonnie J. Dorr and Nizar Habash			Papers
+Multi-Align: combining linguistic and statistical techniques to improve alignments for adaptable MT	Ayan, Necip Fazil and Bonnie Dorr and Nizar Habash			Papers
 A modified Burrows-Wheeler transform for highly scalable example-based translation	Ralf D. Brown			Papers
 Designing a controlled language for the machine translation of medical protocols: the case of English to Chinese	Sylviane Cardey and Peter Greenfield and Xiahong Wu			Papers
 Normalizing German and English inflectional morphology to improve statistical word alignment	Simon Corston-Oliver and Michael Gamon			Papers
@@ -12,14 +12,14 @@ Counting, measuring, ordering: translation problems and solutions	Stephen Helmre
 Feedback from the field: the challenge of users in motion	L. Hernandez and J. Turner and M. Holland			Papers
 The Georgetown-IBM experiment demonstrated in January 1954	W. John Hutchins			Papers
 Pharaoh: a beam search decoder for phrase-based statistical machine translation models	Philipp Koen			Papers
-The PARS family of machine translation systems for Dutch system description/ demonstration	Edward A. Kool and Michael S. Blekhman and Andrei Kursin and Alla Rakova			Papers
+The PARS family of machine translation systems for Dutch system description/ demonstration	Kool, Edward A. and Blekhman, Michael S. and Andrei Kursin and Alla Rakova			Papers
 Rapid MT experience in an LCTL (Pashto)	Craig Kopris			Papers
 The significance of recall in automatic metrics for MT evaluation	Alon Lavie and Kenji Sagae and Shyamsundar Jayaraman			Papers
 Alignment of bilingual named entities in parallel corpora using statistical model	Chun-Jen Lee and Jason S. Chang and Thomas C. Chuang			Papers
 Weather report translation using a translation memory	Thomas Leplus and Philippe Langlais and Guy Lapalme			Papers
 Keyword translation from English to Chinese for multilingual QA	Frank Lin and Teruko Mitamura			Papers
-Extraction of name and transliteration in monolingual and parallel corpora	Tracy Lin and Jian-Cheng Wu and Jason S. Chang			Papers
-Error analysis of two types of grammar for the purpose of automatic rule refinement	Ariadna Font Llitjós and Katharina Probst and Jaime Carbonell			Papers
+Extraction of name and transliteration in monolingual and parallel corpora	Tracy Lin and Jian-Cheng Wu and Chang, Jason S.			Papers
+Error analysis of two types of grammar for the purpose of automatic rule refinement	Llitjós, Ariadna Font and Katharina Probst and Jaime Carbonell			Papers
 The contribution of end-users to the TransType2 project	Elliott Macklovitch			Papers
 An experiment on Japanese-Uighur machine translation and its evaluation	Muhtar Mahsut and Yasuhiro Ogawa and Kazue Sugino and Katsuhiko Toyama and Yasuyoshi Inagaki			Papers
 A structurally diverse minimal corpus for eliciting structural mappings between languages	Katharina Probst and Alon Lavie			Papers
