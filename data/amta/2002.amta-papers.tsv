@@ -1,0 +1,19 @@
+Title	Authors	Pdf	Presentation	Notes
+Automatic rule learning for resource-limited MT	Jaime Carbonell and Katharina Probst and Erik Peterson and Christian Monson and Alon Lavie and Ralf Brown and Lori Levin			Technical papers
+Toward a hybrid integarted translation environment	Michael Carl and Andy Way and Reinhard Schäler			Technical papers
+Adaptive bilingual sentence alignment	Chuang, Thomas C. and You, G.N. and Jason Chang			Technical papers
+DUSTer: a method for unraveling cross-language divergences for statistical word-level alignment	Bonnie Dorr and Lisa Pearl and Rebecca Hwa and Nizar Habash			Technical papers
+Text prediction with fuzzy alignment	George Foster and Philippe Langlais and Guy Lapalme			Technical papers
+Efficient integration of maximum entropy lexicon models within the training of statistical alignment models	Ismael García-Varea and Och, Franz J. and Hermann Ney and Francisco Casacuberta			Technical papers
+Using word formation rules to extend MT lexicons	Claudia Gdaniec and Esmé Manandise			Technical papers
+Example-based machine translation via the Web	Nano Gough and Andy Way and Mary Hearne			Technical papers
+handling translation divergences: combining statistical and symbolic techniques in generation-heavy machine translation	Nizar Habash and Bonnie Dorr			Technical papers
+Korean-Chinese machine translation based on verb patterns	Changhyun Kim and Munpyo Hong and Yinxia Huang and Kim, Young Kil and Yang, Sung Il and Seo, Young Ae and Sung-Kwon Choi			Technical papers
+Merging example-based and statistical machine translation: an experiment	Philippe Langlais and Michel Simard			Technical papers
+Classification approach to word selection in machine translation	Hyo-Kyung Lee			Technical papers
+Better contextual translation using machine learning	Arul Menezes			Technical papers
+Fast and accurate sentence alignment of bilingual corpora	Moore, Robert C.			Technical papers
+Deriving semantic knowledge from descriptive texts using an MT system	Eric Nyberg and Teruko Mitamura and Kathryn Baker and David Svoboda and Brian Peterson and Jennifer Williams			Technical papers
+using a large monolingual corpus to improve translation accuracy	Radu Soricut and Kevin Knight and Daniel Marcu			Technical papers
+Semi-automatic compilation of bilingual lexcion entries from cross-lingually relevant news articles on WWW news sites	Takehito Utsuro and Takashi Horiuchi and Yasunobu Chiba and Takeshi Hamamoto			Technical papers
+Bootstrapping the lexicon building process for machine translation between 'new' languages	Ruvan Weerasinghe			Technical papers
