@@ -3,8 +3,8 @@ Guarani: A Case Study in Resource Development for Quick Ramp-Up MT	Ahmed Abdelal
 Constraining the Phrase-Based, Joint Probability Statistical Translation Model	Alexandra Birch and Chris Callison-Burch and Miles Osborne	https://aclanthology.org/www.mt-archive.info/05/AMTA-2006-Birch.pdf		10-18		
 Context-Based Machine Translation	Jaime Carbonell and Steve Klein and David Miller and Mike Steinbaum and Tomer Grassiany and Jochen Frei	https://aclanthology.org/www.mt-archive.info/05/AMTA-2006-Carbonell.pdf		19-28		
 Integration of POStag-based Source Reordering into SMT Decoding by an Extended Search Graph	Josep M.Crego and José B.Mariño	https://aclanthology.org/www.mt-archive.info/05/AMTA-2006-Crego.pdf		29-36		
-Better Learning and Decoding for Syntax Based SMT Using PSDIG	Yuan Ding and Martha Palmer	https://aclanthology.org/www.mt-archive.info/05/AMTA-2006-Ding.pdf		pp.37-45		
-The Added Value of Free Online MT Services	Federico Gaspari	https://aclanthology.org/www.mt-archive.info/05/AMTA-2006-Gaspari.pdf		pp.46-55		
+Better Learning and Decoding for Syntax Based SMT Using PSDIG	Yuan Ding and Martha Palmer	https://aclanthology.org/www.mt-archive.info/05/AMTA-2006-Ding.pdf		37-45		
+The Added Value of Free Online MT Services	Federico Gaspari	https://aclanthology.org/www.mt-archive.info/05/AMTA-2006-Gaspari.pdf		46-55		
 Challenges in Building an Arabic-English GHMT System with SMT Components	Nizar Habash and Bonnie Dorr and Christof Monz	https://aclanthology.org/www.mt-archive.info/05/AMTA-2006-Habash.pdf		56-65		
 Statistical Syntax-Directed Translation with Extended Domain of Locality	Liang Huang and Kevin Knight and Aravind Joshi	https://aclanthology.org/www.mt-archive.info/05/AMTA-2006-Huang.pdf		66-73		
 Corpus Variations for Translation Lexicon Induction	Rebecca Hwa and Carol Nichols and Khalil Sima'an	https://aclanthology.org/www.mt-archive.info/05/AMTA-2006-Hwa.pdf		74-81		
