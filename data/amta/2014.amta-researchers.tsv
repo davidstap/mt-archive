@@ -2,7 +2,7 @@ Title	Authors	Pdf	Presentation	Volume_Name
 Expressive hierarchical rule extraction for left-to-right translation	Maryam Siahbani and Anoop Sarkar	http://www.mt-archive.info/10/AMTA-2014-Siahbani.pdf		Vol.1: MT Researchers Track
 Bayesian iterative-cascade framework for hierarchical phrase-based translation	Baskaran Sankaran and Anoop Sarkar	http://www.mt-archive.info/10/AMTA-2014-Sankaran.pdf		Vol.1: MT Researchers Track
 Coarse “split and lump” bilingual language models for richer source information in SMT	Darlene Stewart and Roland Kuhn and Eric Joanis and George Foster	http://www.mt-archive.info/10/AMTA-2014-Stewart.pdf		Vol.1: MT Researchers Track
-Using any machine translation source for fuzzy-match repair in a computer-aided translation setting	John E.Ortega and Felipe Sánchez-Martinez and Mikel L.Forcada	http://www.mt-archive.info/10/AMTA-2014-Ortega.pdf		Vol.1: MT Researchers Track
+Using any machine translation source for fuzzy-match repair in a computer-aided translation setting	Ortega, John E. and Felipe Sánchez-Martinez and Forcada, Mikel L.	http://www.mt-archive.info/10/AMTA-2014-Ortega.pdf		Vol.1: MT Researchers Track
 Enhancing statistical machine translation with bilingual terminology in a CAT environment	Mihael Arcan and Marco Turchi and Sara Topelli and Paul Buitelaar	http://www.mt-archive.info/10/AMTA-2014-Arcan.pdf		Vol.1: MT Researchers Track
 Clean data for training statistical MT: the case of MT contamination	Michel Simard	http://www.mt-archive.info/10/AMTA-2014-Simard.pdf		Vol.1: MT Researchers Track
 Bilingual phrase-to-phrase alignment for arbitrarily-small datasets	Kevin Flanagan	http://www.mt-archive.info/10/AMTA-2014--Flanagan.pdf		Vol.1: MT Researchers Track
@@ -10,7 +10,7 @@ A probabilistic feature-based fill-up for SMT	Jian Zhang and Liangyou Li and And
 Document-level re-ranking with soft lexical and semantic features for statistical machine translation	Chenchen Ding and Masao Utiyama and Eiichiro Sumita	http://www.mt-archive.info/10/AMTA-2014-Ding.pdf		Vol.1: MT Researchers Track
 A comparison of mixture and vector space techniques for translation model adaptation	Boxing Chen and Roland Kuhn and George Foster	http://www.mt-archive.info/10/AMTA-2014-Chen.pdf		Vol.1: MT Researchers Track
 Combining domain and topic adaptation for SMT	Eva Hasler and Barry Haddow and Philipp Koehn	http://www.mt-archive.info/10/AMTA-2014-Hasker.pdf		Vol.1: MT Researchers Track
-Online multi-user adaptive statistical machine translation	Prashant Mathur and Mauro Cettolo and Marcello Federico and José G.C.de Souza	http://www.mt-archive.info/10/AMTA-2014-Mathur.pdf		Vol.1: MT Researchers Track
+  Online multi-user adaptive statistical machine translation	Prashant Mathur and Mauro Cettolo and Marcello Federico and de Souza, José G.C.	http://www.mt-archive.info/10/AMTA-2014-Mathur.pdf		Vol.1: MT Researchers Track
 The repetition rate of text as a predictor of the effectiveness of machine translation adaptation	Mauro Cettolo and Nicola Bertoldi and Marcello Federico	http://www.mt-archive.info/10/AMTA-2014-Cettolo.pdf		Vol.1: MT Researchers Track
 Expanding machine translation training data with an out-of-domain corpus using language modeling based vocabulary saturation	Burak Aydın and Arzucan Özgür	http://www.mt-archive.info/10/AMTA-2014-Aydin.pdf		Vol.1: MT Researchers Track
 Comparison of data selection techniques for the translation of video lectures	Joern Wuebker and Hermann Ney and Adrià Martínez-Villaronga and Adrià Giménez and Alfons Juan and Christophe Servan and Marc Dymetman and Shachar Mirkin	http://www.mt-archive.info/10/AMTA-2014-Wuebker.pdf		Vol.1: MT Researchers Track
@@ -19,7 +19,7 @@ Combining techniques from different NN-based language models for machine transla
 Japanese-to-English patent translation system based on domain-adapted word segmentation and post-ordering	Katsuhito Sudoh and Masaaki Nagata and Shinsuke Mori and Tatsuya Kawahara	http://www.mt-archive.info/10/AMTA-2014-Sudoh.pdf		Vol.1: MT Researchers Track
 A discriminative framework of integrating translation memory features into SMT	Liangyou Li and Andy Way and Qun Liu	http://www.mt-archive.info/10/AMTA-2014-Li.pdf		Vol.1: MT Researchers Track
 Assessing the impact of speech recognition errors on machine translation quality	Nicholas Ruiz and Marcello Federico	http://www.mt-archive.info/10/AMTA-2014-Ruiz.pdf		Vol.1: MT Researchers Track
-Using noun class information to model selectional preferences for translating prepositions in SMT	Marion Weller and Sabine Schulte im Walde and Alexander Fraser	http://www.mt-archive.info/10/AMTA-2014-Weller.pdf		Vol.1: MT Researchers Track
+Using noun class information to model selectional preferences for translating prepositions in SMT	Marion Weller and Schulte im Walde, Sabine and Alexander Fraser	http://www.mt-archive.info/10/AMTA-2014-Weller.pdf		Vol.1: MT Researchers Track
 Predicting human translation quality	Lucia Specia and Kashif Shah	http://www.mt-archive.info/10/AMTA-2014-Specia.pdf		Vol.1: MT Researchers Track
 Data selection for compact adapted SMT models	Shachar Mirkin and Laurent Besacier	http://www.mt-archive.info/10/AMTA-2014-Mirkin.pdf		Vol.1: MT Researchers Track
 Pivot-based triangulation for low-resource languages	Rohit Dholakia and Anoop Sarkar	http://www.mt-archive.info/10/AMTA-2014-Dholakia.pdf		Vol.1: MT Researchers Track
