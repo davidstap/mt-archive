@@ -5,7 +5,8 @@ What can MT do for multilingualism on the Net?	Toru Nishigaki	http://www.mt-arch
 SAIL: present and future	Jo Lernout	http://www.mt-archive.info/90/MTS-1999-Lernout.pdf			INVITED TALKS:
 Retrospect and prospect in computer-based translation	John Hutchins	http://www.mt-archive.info/90/MTS-1999-Hutchins.pdf			CLOSING REMARKS:
 Controlled languages for machine translation: state of the art	Hiroyuki Kaji	http://www.mt-archive.info/90/MTS-1999-Kaji.pdf			Session S1: Controlled language
-Controlled language – issues in checkers’ design	Teruko Mitamura	http://www.mt-archive.info/90/MTS-1999-Knops.pdf			Session S1: Controlled language
+Controlled language – issues in checkers’ design	Uus Knops	http://www.mt-archive.info/90/MTS-1999-Knops.pdf			Session S1: Controlled language
+Controlled language for multilingual machine translation	Teruko Mitamura				Session S1: Controlled language
 Translation technology applications for the localization industry	Michael Anobile	http://www.mt-archive.info/90/MTS-1999-Anobile.pdf			Session S2: Localization
 MT and TM technologies in localization industry: the challenge of integration	Nikolai Puntikov	http://www.mt-archive.info/90/MTS-1999-Puntikov.pdf			Session S2: Localization
 Regional survey: M(A)T in North America	Elliott Macklovitch	http://www.mt-archive.info/90/MTS-1999-Macklovitch.pdf			Session S3: Survey reports on MT in each area
@@ -22,21 +23,21 @@ MT from the research perspective	Yussoff Zaharin	http://www.mt-archive.info/90/M
 FAMT is alive and well	Marjorie León	http://www.mt-archive.info/90/MTS-1999-Leon.pdf			Session S6: Views from users
 Applications using multilinguality: IR, summarization and generalization	Vilas Wuwongse	http://www.mt-archive.info/90/MTS-1999-Wuwongse.pdf			Session S7: Multilingual information access
 A scalable cross-language metasearch architecture for multilingual information access on the Web	Yoshihiko Hayashi and Genichiro Kikui and Toshiaki Iwadera	http://www.mt-archive.info/90/MTS-1999-Hayashi.pdf			Session S7: Multilingual information access
-Complementing dictionary-based query translations with corpus statistics for cross-language IR	Sung Hyon Myaeng and Mung-Gil Jang	http://www.mt-archive.info/90/MTS-1999-Myaeng.pdf			Session S7: Multilingual information access
+Complementing dictionary-based query translations with corpus statistics for cross-language IR	Myaeng, Sung Hyon and Mung-Gil Jang	http://www.mt-archive.info/90/MTS-1999-Myaeng.pdf			Session S7: Multilingual information access
 Machine translation for the next century	Jun-ichi Tsujii	http://www.mt-archive.info/90/MTS-1999-Tsujii.pdf			Session S8: MT for the next century
 Otelo and the Domino translation object	Alan Barrett	http://www.mt-archive.info/90/MTS-1999-Barrett.pdf			Session S8: MT for the next century
 Sharing dictionaries among MT users by common formats and social filtering framework	Shin-ichiro Kamei	http://www.mt-archive.info/90/MTS-1999-Kamei.pdf			Session S8: MT for the next century
 A customizable, self-learning parameterized MT system: the next generation	Keh-Yih Su and Jing-Shin Chang	http://www.mt-archive.info/90/MTS-1999-Su.pdf			Session S8: MT for the next century
 Human language technologies for the information society: roles, plans and visions of funding agencies	Antonio Sanfilippo and Shuo Bai and Roberto Cencioni and Akira Izumi and Gary Strong and Dimitrios Theologitis	http://www.mt-archive.info/90/MTS-1999-Sanfilippo.pdf			Session PN1: International cooperation – from funding agencies’ point of view
-MT evaluation	Margaret King and Eduard Hovy and Benjamin K. T’sou and John White and Yusoff Zaharin	http://www.mt-archive.info/90/MTS-1999-King-1.pdf			Session PN2: MT evaluation
+MT evaluation	Margaret King and Eduard Hovy and Tsou, Benjamin K. and John White and Yusoff Zaharin	http://www.mt-archive.info/90/MTS-1999-King-1.pdf			Session PN2: MT evaluation
 Applying TDMT to abstracts on science and technology	Hideki Kashioka and Hiroko Ohta and Yoshiko Shirokizawa and Kazutaka Takao	http://www.mt-archive.info/90/MTS-1999-Kashioka.pdf			Session G1: MT methodologies
 UNL-French deconversion as transfer & generation from an interlingua with possible quality enhancement through offline human interaction	Gilles Sérasset and Christian Boitet	http://www.mt-archive.info/90/MTS-1999-Serasset.pdf			Session G1: MT methodologies
 Solutions to problems inherent in spoken-language translation: the ATR-MATRIX approach	Eiichiro Sumita and Setsuo Yamada and Kazuhide Yamamoto and Michael Paul and Hideki Kashioka and Kai Ishikawa and Satoshi Shirai	http://www.mt-archive.info/90/MTS-1999-Sumita.pdf			Session G1: MT methodologies
 Portuguese-Chinese machine translation in Macao	Yi-Pmg Li and Chi-Man Pun and Fei Wu	http://www.mt-archive.info/90/MTS-1999-Li-1.pdf			Session G2: Example-based MT
-Example-based machine translation based on the synchronous SSTC annotation schema	Mosleh H. Al-Adhaileh and Tang Enya Kong	http://www.mt-archive.info/90/MTS-1999-Al-Adhaileh.pdf			Session G2: Example-based MT
+Example-based machine translation based on the synchronous SSTC annotation schema	Al-Adhaileh, Mosleh H. and Tang Enya Kong	http://www.mt-archive.info/90/MTS-1999-Al-Adhaileh.pdf			Session G2: Example-based MT
 Inducing translation templates for example-based machine translation	Michael Carl	http://www.mt-archive.info/90/MTS-1999-Carl-1.pdf			Session G2: Example-based MT
 Development of an intranet MT system adapting to usage domain	Nobutoshi Hatanaka	http://www.mt-archive.info/90/MTS-1999-Hatanaka.pdf			Session G3 : Multilingual human language technology
-The next step: moving to an integrated MT system for high-volume environments	Walter K. Hartmann	http://www.mt-archive.info/90/MTS-1999-Hartmann.pdf			Session G3 : Multilingual human language technology
+The next step: moving to an integrated MT system for high-volume environments	Hartmann, Walter K.	http://www.mt-archive.info/90/MTS-1999-Hartmann.pdf			Session G3 : Multilingual human language technology
 TransRouter : a decision support tool for translation managers	Margaret King	http://www.mt-archive.info/90/MTS-1999-King-2.pdf			Session G3 : Multilingual human language technology
 Deploying the SAE J2450 translation quality metric in MT projects	Jörg Schütz	http://www.mt-archive.info/90/MTS-1999-Schutz.pdf			Session G3 : Multilingual human language technology
 Evaluation experiment for reading comprehension of machine translation outputs	Masaru Fuji	http://www.mt-archive.info/90/MTS-1999-Fuji.pdf			Session G4 : MT evaluation
@@ -46,7 +47,7 @@ Machine translation for information access across the language barrier : the MuS
 Multilingual document language recognition for creating corpora	Yevgeny Ludovik and Ron Zacharski	http://www.mt-archive.info/90/MTS-1999-Ludovik.pdf			Session G5 : Multilingual information processing
 Interactive MT as support for non-native language authoring	Svetlana Sheremetyeva and Sergei Nirenburg	http://www.mt-archive.info/90/MTS-1999-Sheremetyeva.pdf			Session G6 : Translation tools
 Formalizing translation memories	Emmanuel Planas and Osamu Furuse	http://www.mt-archive.info/90/MTS-1999-Planas.pdf			Session G6 : Translation tools
-The PARS family of MT systems : a 15-year love story	Michael S. Blekhman and Olga Bezhanova and Andrei Kursin and Alia Rakova	http://www.mt-archive.info/90/MTS-1999-Blekhman.pdf			Session G6 : Translation tools
+The PARS family of MT systems : a 15-year love story	Blekhman, Michael S. and Olga Bezhanova and Andrei Kursin and Alia Rakova	http://www.mt-archive.info/90/MTS-1999-Blekhman.pdf			Session G6 : Translation tools
 Parallel text collections at Linguistic Data Consortium	Xiaoyi Ma	http://www.mt-archive.info/90/MTS-1999-Ma-1.pdf			Session G7 : Language resources
 The ELAN Slovene-English aligned corpus	Tomaz Erjavec	http://www.mt-archive.info/90/MTS-1999-Erjavec.pdf			Session G7 : Language resources
 Harmonised large-scale syntactic/semantic lexicons: a European multilingual infrastructure	Nicoletta Calzolari and Antonio Zampolli	http://www.mt-archive.info/90/MTS-1999-Calzolari.pdf			Session G7 : Language resources
@@ -71,24 +72,26 @@ Transfer-based Japanese-Chinese translation implemented on an e-mail system	Juni
 A Cantonese-English machine translation system PolyU-MT-99	Yan Wu and James Liu	http://www.mt-archive.info/90/MTS-1999-Wu.pdf			Session PS1 : Poster session (1)
 WEBTRAN: a controlled language machine translation system for building multilingual services on Internet	Aarno Lehtola and Jarno Tenni and Catherine Bounsaythip and Kristiina Jaaranen	http://www.mt-archive.info/90/MTS-1999-Lehtola.pdf			Session PS1 : Poster session (1)
 Improvement of translation quality of English newspaper headlines by automatic preediting	Takehiko Yoshimi and Ichiko Sata	http://www.mt-archive.info/90/MTS-1999-Yoshimi.pdf			Session PS1 : Poster session (1)
-Transfer in experience-guided machine translation 	Gang Zhao and Junichi Tsujii	http://www.mt-archive.info/MTS-1999-Zhao.pdf			
+Transfer in experience-guided machine translation 	Gang Zhao and Junichi Tsujii	http://www.mt-archive.info/MTS-1999-Zhao.pdf
 Example-based machine translation of part-of-speech tagged sentences by recursive division	Tantely Andriamanankasina and Kenji Araki and Koji Tochinai	http://www.mt-archive.info/90/MTS-1999-Andriamanankasina.pdf			Session PS1 : Poster session (1)
 A new way to conceptual meaning representation	Xiaojie Wang and Yixin Zhong	http://www.mt-archive.info/90/MTS-1999-Wang.pdf			Session PS1 : Poster session (1)
 Using computational semantics for Chinese translations	Evelyne Viegas and Wanying Jin and Stephen Beale	http://www.mt-archive.info/90/MTS-1999-Viegas-2.pdf			Session PS1 : Poster session (1)
-BITS: a method for bilingual text search over the Web	Xiaoyi Ma and Mark Y. Liberman	http://www.mt-archive.info/90/MTS-1999-Ma-2.pdf			Session PS2 : Poster session (2)
+Sources of linguistic knowledge for minority languages	Somers, Harold L.	http://www.mt-archive.info/MTS-1999-Somers.pdf			Session PS2 : Poster session (2)
+BITS: a method for bilingual text search over the Web	Xiaoyi Ma and Liberman, Mark Y.	http://www.mt-archive.info/90/MTS-1999-Ma-2.pdf			Session PS2 : Poster session (2)
 Sharing syntactic structures	Masahiro Ueki and Takenobu Tokunaga and Hozumi Tanaka	http://www.mt-archive.info/90/MTS-1999-Ueki.pdf			Session PS2 : Poster session (2)
 A deterministic dependency parser for Japanese	Ulrich Germann 	http://www.mt-archive.info/MTS-1999-Germann.pdf			Session PS2 : Poster session (2)
 A new approach to the translating telephone	Robert Frederking and Christopher Hogan and Alexander Rudnicky	http://www.mt-archive.info/90/MTS-1999-Frederking.pdf			Session PS2 : Poster session (2)
 A method of evaluation of the quality of translated text	Satoshi Yamauchi	http://www.mt-archive.info/90/MTS-1999-Yamauchi.pdf			Session PS2 : Poster session (2)
-Quantitative evaluation of machine translation using two-way MT	Shoichi Yokoyama and Akira Kumano and Masaki Matsudaira and Yoshiko Shirokizawa and Mutsumi Kawagoe and Shuji Kodama and Hideki Kashioka and Terumasa Ehara. Shinichiro Miyazawa and Yasuo Nakajima	http://www.mt-archive.info/90/MTS-1999-Yokoyama.pdf			Session PS2 : Poster session (2)
+Quantitative evaluation of machine translation using two-way MT	Shoichi Yokoyama and Akira Kumano and Masaki Matsudaira and Yoshiko Shirokizawa and Mutsumi Kawagoe and Shuji Kodama and Hideki Kashioka and Terumasa Ehara and Shinichiro Miyazawa and Yasuo Nakajima	http://www.mt-archive.info/90/MTS-1999-Yokoyama.pdf			Session PS2 : Poster session (2)
+Task-based evaluation for machine translation	Doyon, Jennifer B. and Taylor, Kathryn B. and White, John S.	http://www.mt-archive.info/MTS-1999-Doyon.pdf			Session PS2 : Poster session (2)
 Experiment report of a commercial machine translation in a manufacturing industry domain	Orie Fukutomi	http://www.mt-archive.info/90/MTS-1999-Fukutomi.pdf			Session PS2 : Poster session (2)
 Collection of dictionary data through Internet translation service	Keisuke Nakayama and Akira Kumano	http://www.mt-archive.info/90/MTS-1999-Nakayama.pdf			Session PS3 : Poster session (3)
 Term Builder: a lexical knowledge acquisition tool for the Logos machine translation system	Brigitte Orliac and Kutz Arrieta	http://www.mt-archive.info/90/MTS-1999-Orliac.pdf			Session PS3 : Poster session (3)
-Computer-aided translation tools for Russian. Ukrainian, and English	Michael S. Blekhman and Maryna Byezhanova and Andrei Kursin and Igor Backlan and Alexander Kazakov and Vladimir Petrov	http://www.mt-archive.info/90/MTS-1999-Blekhman-2.pdf			Session PS3 : Poster session (3)
-Translation camera	Yasuhiko Watanabe and Yoshihiro Okada and Yeun-Bae Kim and Tetsuya Takeda	http://www.mt-archive.info/MTS-1999-Watanabe.pdf			
+Computer-aided translation tools for Russian. Ukrainian, and English	Blekhman, Michael S. and Maryna Byezhanova and Andrei Kursin and Igor Backlan and Alexander Kazakov and Vladimir Petrov	http://www.mt-archive.info/90/MTS-1999-Blekhman-2.pdf			Session PS3 : Poster session (3)
+Translation camera	Yasuhiko Watanabe and Yoshihiro Okada and Yeun-Bae Kim and Tetsuya Takeda	http://www.mt-archive.info/MTS-1999-Watanabe.pdf
 A new diagnostic system for J-E translation ILTS by global matching algorithm and POST parser	Liang Chen and Naoyuki Tokuda	http://www.mt-archive.info/90/MTS-1999-Chen.pdf			Session PS3 : Poster session (3)
-Linking translation memories with example-based machine translation	Michael Carl and Silvia Hansen	http://www.mt-archive.info/MTS-1999-Carl-2.pdf			
-Towards an interlingual treatment of modality	Christoph Neumann	http://www.mt-archive.info/MTS-1999-Neumann.pdf			
+Linking translation memories with example-based machine translation	Michael Carl and Silvia Hansen	http://www.mt-archive.info/MTS-1999-Carl-2.pdf
+Towards an interlingual treatment of modality	Christoph Neumann	http://www.mt-archive.info/MTS-1999-Neumann.pdf
 Resolving category ambiguity of non-text symbols in Mandarin text	Feng-Long Hwang and Ming-Shing Yu	http://www.mt-archive.info/90/MTS-1999-Hwang.pdf			Session PS3 : Poster session (3)
-Automatic domain recognition for machine translation 	Elke D. Lange and Jin Yang	http://www.mt-archive.info/MTS-1999-Lange.pdf			
+Automatic domain recognition for machine translation 	Lange, Elke D. and Jin Yang	http://www.mt-archive.info/MTS-1999-Lange.pdf
 A multilevel framework for incremental development of MT systems	Remi Zajac	http://www.mt-archive.info/90/MTS-1999-Zajac.pdf			Session PS3 : Poster session (3)
