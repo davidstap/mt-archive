@@ -1,19 +1,4 @@
 Title	Authors	Pdf	Presentation	Volume_Name	Notes
-A gentle introduction to MT: theory and current practice    	Eduard Hovy				Tutorials
-How to make MT work for you 	Marjorie León				Tutorials
-MT evaluation: old, new, and recycled   	John White				Tutorials
-Post-editing MT 	Karin Spalink				Tutorials
-U.S.Government Support and Use of Machine Translation: Current Status	Thomas R. Pedtke	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Pedtke.pdf			Part I: Papers
-First steps in Mechanical Translation	John Hutchins	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Hutchins.pdf			Part I: Papers
-The Origins of MT	Booth, Andrew D. and Booth, Kathleen H. V.	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Booth.pdf			Part I: Papers
-Something Old and Something New	Victor H. Yngve	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Yngve.pdf			Part I: Papers
-The Fulcrum Approach to Machine Translation	Christine A. Montgomery	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Montgomery.pdf			Part I: Papers
-Let Me tell You How It Really Was	Michael Zarechnak	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Zarechnak.pdf			Part I: Papers
-My First 30 Years with MT	Peter Toma	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Toma.pdf			Part I: Papers
-MT at Texas: The Early Years	Lehmann, W.P.	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Lehmann.pdf			Part I: Papers
-The Challenge of Keypunching for MT	Roger A. Heller	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Heller.pdf			Part I: Papers
-The Emergence of MT in Europe	Loll Rolling	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Rolling.pdf			Part I: Papers
-Machine Translation Through Language Understanding	Makoto Nagao	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Nagao.pdf			Part I: Papers
 Machine Translation of Interactive Texts	Mary Flanagan	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Flanagan.pdf			Part I: Papers
 A Real-Time MT System for Translating Broadcast Captions	Eric Nyberg and Teruko Mitamura	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Nyberg.pdf			Part I: Papers
 Managing Distributed MT Projects Today — A New Challenge	Brundage, Jennifer A. and Susan McCormick and Chris Pyne	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Brundage.pdf			Part I: Papers
@@ -22,7 +7,6 @@ Exchange Interfaces for Translation Tools	Gregor Thurmair	https://aclanthology.o
 R&D for Commercial MT	Laurie Gerber	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Gerber-1.pdf			Part I: Papers
 MT from an Everyday User’s Point of View	Annelise Bech	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Bech.pdf			Part I: Papers
 Translating Scientific Texts using MT and MAT Ssytems: Practical Experience of a Professional Translator	Olga Bezhanova	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Bezhanova.pdf			Part I: Papers
-The Current State of Machine Translation	Somers, Harold L.	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Somers.pdf			Part I: Papers
 User-Friendly Machine Translation: Alternate Translations Based on Differing Beliefs	David Farwell and Stephen Helmreich	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Farwell.pdf			Part I: Papers
 Sharable Formats and Their Supporting Environments for Exchanging User Dictionaries among Different MT Systems as a Part of AAMT Activities	Shin-ichiro Kamei and Etsuo Itoh and Mikiko Fujii and Tokuyuki Hirai and Yukari Saitoh and Masahito Takahashi and Tsutomu Hiyama and Kazunori Muraki	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Kamei.pdf			Part I: Papers
 JEIDA’s Bilingual Corpus and Other Corpora for NLP Research in Japan	Hitoshi Isahara	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Isahara.pdf			Part I: Papers
@@ -32,7 +16,6 @@ Corpus-Based Statistics-Oriented (CBSO) Machine Translation Researches in Taiwan
 An Example of MT Use by the U.S.Government	Joel Ross	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Ross.pdf			Part I: Papers
 PARS/U for Windows: The World’s First Commercial English-Ukrainian and Ukrainian-English Machine Translation System	Blekhman, Michael S. and Alla Rakova and Andrei Kursin	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Blekhman.pdf			Part I: Papers
 From METAL to T1: Systems and Components for Machine Translation Applications	Ulrike Schwall and Gregor Thurmair	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Schwall.pdf			Part I: Papers
-Whither MT?	Bente Maegaard	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Maegaard.pdf			Part I: Papers
 MT R&D in Canada	Elliott Macklovitch	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Macklovitch.pdf			Part I: Papers
 SYSTRAN MT Dictionary Development	Laurie Gerber and Jin Yang	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Gerber-2.pdf			Part I: Papers
 MT as a Commercial Service: Three Case Studies	Terence Lewis	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Lewis.pdf			Part I: Papers
@@ -40,30 +23,3 @@ Java and Its Role in Natural Language Processing and Machine Translation	Tim Rea
 End-to-End Evaluation in VERBMOBIL I	Rita Nübel	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Nubel.pdf			Part I: Papers
 Using MT in a Corporate Setting	Lou Cremers	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Cremers.pdf			Part I: Papers
 Using MT in a Corporate Setting	Christine Kamprath	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Kamprath.pdf			Part I: Papers
-TRANSLATOR MTK: A Language Independent Machine Translation Development Environment	Deon Oosthuizen, G.	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Oosthuizen.pdf			Part II: System Presentations
-Globalink Power Translator 6 – Barcelona Technology	Clements, David E. and John O’Hara	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Clements.pdf			Part II: System Presentations
-Alis Technologies Inc.		https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Alis-1.pdf			Part II: System Presentations
-Logos Machine Translation System	Lale Yurtseven	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Yurtseven.pdf			Part II: System Presentations
-Presentation of Lant Technology	Herman Caeyers	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Caeyers.pdf			Part II: System Presentations
-Integrating TRADOS Translator’s Workbench with Machine Translation	Mark Berry	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Berry.pdf			Part II: System Presentations
-STYLUS – Outline of Functions and Features	Svetlana Sokolova	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Sokolova.pdf			Part II: System Presentations
-PAHO MT Systems: SPANAMâ and ENGSPANâ	Marjorie León and Julia Aymerich	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Leon.pdf			Part II: System Presentations
-The DIPLOMAT Rapid Development Speech MT System	Frederking, Robert E. and Brown, Ralf D. and Christopher Hogan	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Frederking.pdf			Part II: System Presentations
-MULTI-lingual DOCumentation	Jörg Schütz	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Schutz.pdf			Part II: System Presentations
-ESTeam BTR	G.Magnusdottir and L. Cranius and Y. Aglamissis and C. Roniotes and A. Samiotou	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Magnusdottir.pdf			Part II: System Presentations
-InfoRaptor – SYSTRAN’s Multilingual Data Retrieval System	Gachot, Denis A.	https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Gachot.pdf			Part II: System Presentations
-Alis Technologies Inc		https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Alis-2.pdf			Part III: Exhibits
-John Benjamins North America					Part III: Exhibits
-CITAC Computer, Inc. 					Part III: Exhibits
-EPI*USE Systems: TRANSLATOR MTK					Part III: Exhibits
-ESTeam BTR		https://aclanthology.org/www.mt-archive.info/90/MTS-1997-ESTeam.pdf			Part III: Exhibits
-Fujitsu Software Corporation: ATLAS for Windows V.4.0 JE/EJ		https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Atlas.pdf			Part III: Exhibits
-GMS		https://aclanthology.org/www.mt-archive.info/90/MTS-1997-GMS.pdf			Part III: Exhibits
-IBT, Inc. 					Part III: Exhibits
-Logos Corporation: Logos Translation System		https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Logos.pdf			Part III: Exhibits
-MCB Systems		https://aclanthology.org/www.mt-archive.info/90/MTS-1997-MCB.pdf			Part III: Exhibits
-NeocorTech LLC		https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Neocor.pdf			Part III: Exhibits
-PAHO MT Systems: SPANAMâ and ENGSPANâ		https://aclanthology.org/www.mt-archive.info/90/MTS-1997-PAHO.pdf			Part III: Exhibits
-SYSTRAN Software, Inc. 		https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Systran.pdf			Part III: Exhibits
-Toshiba Corporation: ASTRANSAC – Toshiba Machine Translation System		https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Toshiba.pdf			Part III: Exhibits
-USC Information Sciences Institute: GAZELLE – Using Statistics to Fill Knowledge Gaps in MT		https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Knight.pdf			Part III: Exhibits
