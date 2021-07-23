@@ -1,0 +1,58 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Notes
+Experimental comparison of MT evaluation methods: RED vs.BLEU	Yasuhiro Akiba and Eiichiro Sumita and Hiromi Nakaiwa and Seiichi Yamamoto and Okuno, Hiroshi G.	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Akiba.pdf			Papers presented
+A hybrid approach to deriving selectional preferences	Arendse Bernth and McCord, Michael C.	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Bernth.pdf			Papers presented
+Evaluation of a method of creating new valency entries	Francis Bond and Sanae Fujita	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Bond.pdf			Papers presented
+Reducing boundary friction using translation-fragment overlap	Brown, Ralf D. and Rebecca Hutchinson and Bennett, Paul N. and Carbonell, Jaime G. and Peter Jansen	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Brown.pdf			Papers presented
+Communicative strategies and patterns of multimodal integration in a speech-to-speech translation system	Susanne Burger and Erica Costantini and Fabio Pianesi	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Burger.pdf			Papers presented
+Syntax-based language models for statistical machine translation	Eugene Charniak and Kevin Knight and Kenji Yamada	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Charniak.pdf			Papers presented
+A fine-grained evaluation framework for machine translation system development	Nelson Correa	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Correa.pdf			Papers presented
+Combining decision trees and transformation-based learning to correct transferred linguistic representations	Simon Corston-Oliver and Michael Gamon	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Corston.pdf			Papers presented
+Correlating automated and human assessments of machine translation quality	Deborah Coughlin	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Coughlin.pdf			Papers presented
+The limits of n-gram translation evaluation metrics	Christopher Culy and Riehemann, Susanne Z.	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Culy.pdf			Papers presented
+A hybrid approach to word order transfer in the English-to-Vietnamese machine translation	Dinh Dien and Ngan, Nguyen Luu Thuy and Quang, Do Xuan and Nam, Van Chi	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Dien-1.pdf			Papers presented
+BTL: a hybrid model for English-Vietnamese machine translation	Dinh Dien and Kiem Hoang and Eduard Hovy	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Dien-2.pdf			Papers presented
+An algorithm for word-level alignment of parallel dependency trees	Yuan Ding and Daniel Gildea and Martha Palmer	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Ding.pdf			Papers presented
+Effectiveness of automatic extraction of bilingual collocations using recursive chain-link-type learning	Hiroshi Echizen-ya and Kenji Araki and Yoshio Momouchi and Koji Tochinai	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Echizen.pdf			Papers presented
+Statistical machine translation: rapid development with limited resources	George Foster and Simona Gandrabur and Philippe Langlais and Pierre Plamondon and Graham Russell and Michel Simard	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Foster.pdf			Papers presented
+The functionality of a tool bar for postedition in machine translation between languages with linguistic interference: the Spanish-Galician case	Sayáns Gómez, Antonio and Villar Conde, Elena	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Sayans.pdf			Papers presented
+Transliteration considering context information based on the maximum entropy method	Isao Goto and Naoto Kato and Noriyoshi Uratani and Terumasa Ehara	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Goto-1.pdf			Papers presented
+Controlled generation in example-based machine translation	Nano Gough and Andy Way	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Gough.pdf			Papers presented
+Identification of divergence for English to Hindi EBMT	Deepa Gupta and Niladri Chatterjee	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Gupta.pdf			Papers presented
+Matador: a large-scale Spanish-English GHMT system	Nizar Habash	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Habash-3.pdf			Papers presented
+A simple multilingual machine translation system	Jan Hajič and Petr Homola and Vladislav Kuboň	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Hajic.pdf			Papers presented
+Seeing the wood for the trees: data-oriented translation	Mary Hearne and Andy Way	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Hearne.pdf			Papers presented
+A unified statistical model for generalized translation memory system	Jin-Xia Huang and Wei Wang and Ming Zhou	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Huang.pdf			Papers presented
+Has machine translation improved? some historical comparisons	John Hutchins	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Hutchins.pdf			Papers presented
+Testing "Prompt": the development of a rapid post-editing service at CLS Corporate Language Services AG, Switzerland	Catherine Hyland	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Hyland.pdf			Papers presented
+Lexical knowledge representation with contextonyms	Hyungsuk Ji and Sabine Ploux and Eric Wehrli	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Ji.pdf			Papers presented
+Multilingual translation via annotated hub language	Hiroshi Kanayama and Hideo Watanabe	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Kanayama.pdf			Papers presented
+Acquisition of bilingual MT lexicons from OCRed dictionaries	Burcu Karagol-Ayan and David Doermann and Dorr, Bonnie J.	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Karagol.pdf			Papers presented
+Building a parallel corpus for monologues with clause alignment	Hideki Kashioka and Takehiko Maruyama and Hideki Tanaka	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Kashioka.pdf			Papers presented
+FEMTI: creating and using a framework for MT evaluation	Margaret King and Andrei Popescu-Belis and Eduard Hovy	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-King.pdf			Papers presented
+Practical machine translation system allowing complex patterns	Mihoko Kitamura and Toshiki Murata	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Kitamura.pdf			Papers presented
+A novel string-to-string distance measure with applications to machine translation evaluation	Gregor Leusch and Nicola Ueffing and Hermann Ney	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Leusch.pdf			Papers presented
+Scalability in MT systems	Elisabeth Maier and Anthony Clarke	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Maier.pdf			Papers presented
+Source language diagnostics for MT	Teruko Mitamura and Kathryn Baker and David Svoboda and Eric Nyberg	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Mitamura-1.pdf			Papers presented
+Resolving 'incognito' ellipsis: treatment for constructions that disguise ellipsis	Shigeko Nariyama	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Nariyama.pdf			Papers presented
+Predictive models of performance in multi-engine machine translation	Tadashi Nomoto	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Nomoto.pdf			Papers presented
+Rapid-response machine translation for unexpected languages	Oard, Douglas W. and Franz Josef Och	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Oard.pdf			Papers presented
+Translation of news headlines	Kenji Ono	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Ono.pdf			Papers presented
+Collocation extraction for machine translation	Brigitte Orliac and Mike Dillinger	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Orliac.pdf			Papers presented
+On the use of statistical machine-translation techniques within a memory-based translation system (AMETRA)	Daniel Ortíz and Ismael García-Varea and Francisco Casacuberta and Antonio Lagarda and Jorge González	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Ortiz.pdf			Papers presented
+An experiment in comparative evaluation: humans vs. computers	Andrei Popescu-Belis	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Popescu.pdf			Papers presented
+Word sense discovery based on sense descriptor dissimilarity	Reinhard Rapp	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Rapp.pdf			Papers presented
+For the proper treatment of long sentences in a sentence pattern-based English-Korean MT system	Yoon-Hyung Roh and Munpyo Hong and Sung-Kwon Choi and Ki-Young Lee and Sang-Kyu Park	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Roh.pdf			Papers presented
+Disambiguation of English PP attachment using multilingual aligned data	Lee Schwartz and Takako Aikawa and Chris Quirk	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Schwartz.pdf			Papers presented
+SYSTRAN new generation: the XML translation workflow	Jean Senellart and Christian Boitet and Laurent Romary	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Senellart-1.pdf			Papers presented
+SYSTRAN intuitive coding technology	Jean Senellart and Jin Yang and Anabel Rebollo	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Senellart-2.pdf			Papers presented
+Example-based rough translation for speech-to-speech translation	Mitsuo Shimohata and Eiichiro Sumita and Yuji Matsumoto	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Shimohata.pdf			Papers presented
+High quality machine translation using a machine-learned sentence realization component	Martine Smets and Michael Gamon and Jessie Pinkham and Tom Reutter and Martine Pettenaro	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Smets.pdf			Papers presented
+Evaluating commercial spoken language translation software	Harold Somers and Yuri Sugita	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Somers-1.pdf			Papers presented
+Translation selection for Japanese-English noun-noun compounds	Takaaki Tanaka and Timothy Baldwin	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Tanaka.pdf			Papers presented
+Evaluation of machine translation and its evaluation	Turian, Joseph P. and Luke Shen and Melamed, I. Dan	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Turian.pdf			Papers presented
+Confidence measures for statistical machine translation	Nicola Ueffing and Klaus Macherey and Hermann Ney	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Ueffing.pdf			Papers presented
+The CMU statistical machine translation system	Stephan Vogel and Ying Zhang and Fei Huang and Alicia Tribble and Ashish Venugopal and Bing Zhao and Alex Waibel	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Vogel-1.pdf			Papers presented
+Example-based decoding for statistical machine translation	Taro Watanabe and Eiichiro Sumita	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Watanabe.pdf			Papers presented
+Automatic predicate argument structure analysis of the Penn Chinese Treebank	Nianwen Xue and Seth Kulick	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Xue.pdf			Papers presented
+Improving translation models by applying asymmetric learning	Setsuo Yamada and Masaaki Nagata and Kenji Yamada	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Yamada.pdf			Papers presented
+Customizing complex lexical entries for high-quality MT	Rémi Zajac and Elke Lange and Jin Yang	https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Zajac.pdf			Papers presented
